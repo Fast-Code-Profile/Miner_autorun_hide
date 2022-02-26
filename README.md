@@ -9,7 +9,7 @@
     System.vbs - Запуск майнинга без окна консоли
 
 
-# Создание exe который будет распаковаваться в папку %temp% и добавлен в автозапуск
+# Создание exe который будет распаковаваться в папку %temp% и добавляться в автозапуск
 ![Image alt](https://github.com/Fast-Code-Profile/Miner_autorun_hide/raw/main/image/1.png)
 ![Image alt](https://github.com/Fast-Code-Profile/Miner_autorun_hide/raw/main/image/2.png)
 ![Image alt](https://github.com/Fast-Code-Profile/Miner_autorun_hide/raw/main/image/3.png)
